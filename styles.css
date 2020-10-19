@@ -1,0 +1,48 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-weight: bold;
+    font-size: 89px;
+    line-height: 79px;
+    color: #ffb300;
+}
+.paragrafo{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+p{
+    font-weight: bolder;
+    line-height: 1.61;
+    color: black;
+    font-size: 21px;
+    
+}
+.lista{
+    font-size: 21px;
+    font-weight: bolder;
+    line-height: 1.61;
+}
+#img{
+    width: 883px;
+    height:347px;
+}
+#video{
+    width: 883px;
+    height:497px ;
+}
+.tope{
+font-size: 21px;
+font-weight: bold;
+color: #0037b3;
+}
+.subtitulo{
+    font-size: 34px;
+    color: #ffb300;
+    font-weight: bold;
+}
+.nuevo{
+    padding: 34px;
+}
